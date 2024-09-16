@@ -1,0 +1,20 @@
+frontend_react/
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.js
+│   │   │   ├── Register.js
+│   │   │   ├── Profile.js
+│   │   ├── Articles/
+│   │   │   ├── ArticleList.js
+│   │   │   ├── ArticleDetail.js
+│   │   │   ├── MyArticles.js
+│   ├── hooks/
+│   │   ├── useAuth.js
+│   ├── services/
+│   │   ├── api.js
+│   ├── styles/
+│   │   ├── GlobalStyle.js
+│   ├── App.js
+│   ├── index.js
+│   ├── routes.js
